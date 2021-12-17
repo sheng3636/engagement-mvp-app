@@ -1,0 +1,212 @@
+{
+  "loading": "loading...",
+  "success": "success",
+  "pullingText": "Drop down to refresh",
+  "loosingText": "Free to refresh",
+  "finishedText": "No more",
+  "notifyMsg": "Login expired, you can cancel to stay on this page, or log in again",
+  "notifyMsg1": "",
+  "tipTxt": "tip",
+  "button": {
+    "submitBtn": "confirm",
+    "cancelBtn":"cancel"
+  },
+  "introduction": {
+    "productIntroduction": "About Product",
+    "description1": "Morning Glory is a platform that enhances the connection between agents and their customers. Customers enter the system through the invitation of their agents, and they can complete some small tasks related to health together with the agents in the system. After completing certain tasks, they will receive corresponding rewards. At the same time, users are encouraged to develop healthier habits.",
+    "description2": "The following is an introduction to the main functions of the product.",
+    "start": "Start Using",
+    "introductionContent1": "The agent invites his/her customers by name and mobile phone number.",
+    "introductionContent2": "Customer verification mobile phone number login.",
+    "introductionContent3": "After logging in, the user can complete some health tasks.",
+    "introductionContent4": "Customer can get corresponding rewards after completion task."
+  },
+  "introduce": {
+    "pageTitle1": "welcome page",
+    "pageTitle2": "login",
+    "welcomeTxt": "Welcome!",
+    "welcomeMemo1": "Here you can earn your rewards by",
+    "welcomeMemo2": "living a healthier life",
+    "signBtn": "Sign In",
+    "fisrtTitle1": "Enter your",
+    "fisrtTitle2": "mobile number",
+    "titleMemo": "We will send you a vertification code",
+    "phonePlacehoder": "Mobile number",
+    "next": "Next",
+    "fisrtTitle3": "Enter code sent",
+    "fisrtTitle4": "to your phone",
+    "titleMemo2": "We sent it to the number",
+    "ResentCode1": "Resent code",
+    "ResentCode2": "Resent code in",
+    "phoneErrMsg1": "Your operation is a little too frequent, Please try again later",
+    "phoneErrMsg2": "Enter the correct mobile number"
+  },
+  "selectPreference": {
+    "pageTitle": "questionnaire",
+    "shortSurvey": "Short Survey",
+    "skip": "Skip",
+    "title": "What kind of health related challenge do you prefer?",
+    "submitBtn": "Let’s begin",
+    "customizeTasks": "Customize your tasks",
+    "title1": "What kind of health related challenge do you prefer??"
+  },
+  "index": {
+    "navTitle1": "Home",
+    "navTitle2": "Customers",
+    "navTitle3": "Rewards"
+  },
+  "customers": {
+    "pageTitle": "customers",
+    "emptyDesc1": "Haven't invited any customer yet",
+    "emptyDesc2": "Have no activated customer",
+    "emptyDesc3": "没有未激活的客户",
+    "inviteBtn": "Invite customer",
+    "name": "name",
+    "lastActive": "last active",
+    "activated": "Activated",
+    "unactivated": "Unactivated",
+    "reminder": "Send reminder",
+    "selectAll": "Aelect all",
+    "sysMsg1": "The activation message has been sent"
+  },
+  "customerRegister": {
+    "pageTitle": "Agent invitation",
+    "emptyDesc1": "Your invitation quota has been used up. Please contact relevant personnel to increase the quota.",
+    "inviteTitle": "Enter your customers’ mobile number and name",
+    "inviteCount": "Quota left",
+    "inviteRecord": "Customer invited",
+    "name": "Name",
+    "phonePlacehoder": "Mobile number",
+    "registered": "Already registered",
+    "sendBtn": "Send to customers",
+    "selected": "Selected",
+    "selectAll": "Select all"
+  },
+  "inviteRecord": {
+    "pageTitle": "Invited to record",
+    "recordCount": "Customer invited",
+    "emptyDesc1": "Haven't invited any customer yet"
+  },
+  "customersDetail": {
+    "pageTitle": "customer details",
+    "lastActive": "Last active",
+    "reminderBtn": "Send reminder",
+    "sendChallenge": "Send challenge",
+    "tag": "Target",
+    "historyTitle": "Reward",
+    "validUntil": "Valid until",
+    "expired": "Expired",
+    "emptyDesc1": "This user hasn’t got any reward yet!",
+    "emptyDesc2": "There’s no challenge right now!",
+    "emptyDesc3": "This user does not have enough data to tag",
+    "popTitle1": "Please choose a challenge",
+    "sysMsg1":"Invitation messages have been sent",
+    "sysMsg2": "Login information has been sent",
+    "memoTxt1":"Already in the team"
+  },
+  "TeamAcitvitiesItem": {
+    "emptyDesc1": "You can build a team to participate when there are activities",
+    "memoTitle": "You can build a team to complete a group challenge, and win rewards together",
+    "moreLink": "More information",
+    "createTemaBtn": "Create team",
+    "checkRule": "Check the rule"
+  },
+  "TeamTaskProgress": {
+    "inviteBtn": "Invite more",
+    "statusTxt1": "Status of Today's Task",
+    "statusTxt2": "Status of {date} Task",
+    "reminderBtn": "Send Reminder",
+    "progressTxt1": "Need {number} members finishing the task to achieve the goal",
+    "progressTxt2": "{number}members finished the task!",
+    "progressTxt3": "Excellent! ",
+    "done": "Done",
+    "unfinished": "Unfinished",
+    "unfinishedDesc": "You haven’t achieve the goal. Keep going!!"
+  },
+  "rewards": {
+    "pageTitle": "My reward",
+    "emptyDesc1": "You haven't won any prizes yet",
+    "validUntil": "Valid until",
+    "couponCode": "Coupon code"
+  },
+  "rewardsDetails": {
+    "pageTitle": "rewards details",
+    "validUntil": "Valid until"
+  },
+  "activityDetail": {
+    "pageTitle": "detail of the activity"
+  },
+  "TeamInviteMember": {
+    "pageTitle": "Invite members",
+    "unactive": "Unactive",
+    "refused": "Refused",
+    "accepted": "accepted",
+    "sysMsg1":"A reminder message has been sent"
+  },
+  "TeamAllMember": {
+    "pageTitle": "All member",
+    "pageTitle1": "Remind the member",
+    "emptyDesc1": "No team members！",
+    "hasClock": "Has clock",
+    "reminder": "Send reminder",
+    "confirmMsg1": "Reminder message will be sent to those who haven’t finished today’s task",
+    "name": "Name",
+    "taskCompleted": "Task completed"
+  },
+  "homePage": {
+    "pageTitle": "home",
+    "welcome": "Hello,",
+    "myTask": "Today's task",
+    "qa": "Q&A",
+    "toDo": "To do",
+    "backToday": "Go to Today",
+    "customTask": "Wanna customize your tasks？",
+    "wellDone": "Well Done",
+    "notBad": "Not Bad",
+    "betToChange": "Better to change",
+    "taskDonePrompt": "Well done! You’ve finished it.",
+    "today": "Today",
+    "myTeam": "My Team",
+    "myTeamTask": "My Tasks",
+    "submit": "Submit",
+    "done": "Done",
+    "unfinish": "Unfinished",
+    "submitPrompt": "Please enter a valid value",
+    "challengeFailed": "Challenge failed",
+    "challengeFailedDes": "Don't be discouraged, there are more prizes waiting for you"
+  },
+  "weekend": [
+    "Sun",
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat",
+    "Sun",
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat"
+  ],
+  "TeamAcceptChallenge": {
+    "title": "Your agent invite you to join",
+    "checkdetal": "check detal",
+    "btntxt1": "Join in the challenge",
+    "btntxt2": "I don't want to join",
+    "ruleTxt": "rule",
+    "rule": "Every day at least 60% of the members complete the team’s task, the day’s goal is achieved During the event period, there are at least 60% of the days to achieve the daily goal, then the team challenge is successful, and each team member will receive a prize"
+  },
+  "errorPage": {
+    "memo1": "Sorry, the page you visited does not exist",
+    "backBtn": "Return to the home page"
+  },
+  "taskComplete": {
+    "title": "You’ve finished {day}-day tasks! Please redeem your reward"
+  },
+  "taskNextStart": {
+    "title": "Finish another {day} days of daily task to get"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "loading": "加载中...",
+  "success": "成功",
+  "pullingText": "下拉即可刷新",
+  "loosingText": "释放即可刷新",
+  "finishedText": "没有更多了",
+  "notifyMsg": "系统错误",
+  "notifyMsg1": "登录过期，您可以取消以继续停留在此页面，或重新登录",
+  "tipTxt": "提示",
+  "button": {
+    "submitBtn": "确认",
+    "cancelBtn": "取消"
+  },
+  "introduction": {
+    "productIntroduction": "产品介绍",
+    "description1": "Morning Glory是一个增强代理人和其客户的联系的平台。客户通过其代理人的邀请进入系统，在系统内可以和代理人共同完成一些和健康有关的小任务，完成一定的任务后，获得相应的奖励。同时也鼓励用户养成更加健康的生活习惯。",
+    "description2": "以下是该产品的主要功能介绍。",
+    "start": "开始使用",
+    "introductionContent1": "代理人通过姓名和手机号邀请 TA 的客户",
+    "introductionContent2": "客户验证手机号登录",
+    "introductionContent3": "登录后用户可以完成一些健康任务",
+    "introductionContent4": "完成后可以获得相应的奖励"
+  },
+  "introduce": {
+    "pageTitle1": "欢迎页",
+    "pageTitle2": "登录",
+    "welcomeTxt": "欢迎!",
+    "welcomeMemo1": "创建健康生活",
+    "welcomeMemo2": "赢取诱人大奖",
+    "signBtn": "START",
+    "fisrtTitle1": "请输入您的",
+    "fisrtTitle2": "手机号",
+    "titleMemo": "我们将向您的手机发送一个验证码",
+    "phonePlacehoder": "请输入手机号码",
+    "next": "下一步",
+    "fisrtTitle3": "请输入您收到的",
+    "fisrtTitle4": "验证码",
+    "titleMemo2": "我们将发送到",
+    "ResentCode1": "重新发送",
+    "ResentCode2": "重新发送",
+    "phoneErrMsg1": "您的操作有点频繁，请稍后再试",
+    "phoneErrMsg2": "请输入正确的手机号码"
+  },
+  "selectPreference": {
+    "pageTitle": "问卷",
+    "shortSurvey": "小调查",
+    "skip": "跳过",
+    "title": "您更关注哪些方面的健康问题？",
+    "submitBtn": "我们开始吧！",
+    "customizeTasks": "定制你的任务",
+    "title1": "你喜欢哪种与健康相关的挑战?"
+  },
+  "index": {
+    "navTitle1": "首页",
+    "navTitle2": "客户列表",
+    "navTitle3": "奖励"
+  },
+  "customers": {
+    "pageTitle": "客户列表",
+    "emptyDesc1": "还没有邀请客户哦",
+    "emptyDesc2": "没有激活客户",
+    "emptyDesc3": "没有未激活的客户",
+    "inviteBtn": "邀请新客户",
+    "name": "姓名",
+    "lastActive": "上次登录",
+    "activated": "激活用户",
+    "unactivated": "未激活用户",
+    "reminder": "发送提醒",
+    "selectAll": "全选",
+    "sysMsg1": "激活信息已发出"
+  },
+  "customerRegister": {
+    "pageTitle": "代理人邀请",
+    "emptyDesc1": "您的邀请名额已经用完。请联系相关人员增加配额",
+    "inviteTitle": "请输入客户的手机与姓名",
+    "inviteCount": "剩余邀请码",
+    "inviteRecord": "已邀请的客户",
+    "name": "姓名",
+    "phonePlacehoder": "手机号",
+    "registered": "已注册",
+    "sendBtn": "发送邀请",
+    "selected": "已选择",
+    "selectAll": "全选"
+  },
+  "inviteRecord": {
+    "pageTitle": "邀请记录",
+    "recordCount": "已邀请的客户",
+    "emptyDesc1": "还没有邀请任何客户"
+  },
+  "customersDetail": {
+    "pageTitle": "客户详情",
+    "lastActive": "上次登录",
+    "reminderBtn": "发送提醒",
+    "sendChallenge": "发送团队邀请",
+    "tag": "目标",
+    "historyTitle": "奖励",
+    "validUntil": "有效期至",
+    "expired": "过期",
+    "emptyDesc1": "此用户还没有得到任何奖励！",
+    "emptyDesc2": "现在没有挑战！",
+    "emptyDesc3": "该用户没有足够的数据来标记",
+    "popTitle1": "请选择挑战",
+    "sysMsg1":"邀请信息已发送",
+    "sysMsg2": "登录信息已发出",
+    "memoTxt1":"已经在团队中"
+  },
+  "TeamAcitvitiesItem": {
+    "emptyDesc1": "当有活动时，你可以组建一个团队来参与",
+    "memoTitle": "你可以选择一个团队挑战并邀请你的客户一起组队",
+    "moreLink": "查看详情",
+    "createTemaBtn": "组建团队",
+    "checkRule": "查看规则"
+
+  },
+  "TeamTaskProgress": {
+    "inviteBtn": "邀请队员",
+    "statusTxt1": "今天任务状态",
+    "statusTxt2": "{date}任务状态",
+    "reminderBtn": "发送提醒",
+    "progressTxt1": "需要 {number} 人打卡即可完成",
+    "progressTxt2": "{number}名成员完成打卡",
+    "progressTxt3": "太好了！",
+    "done": "完成",
+    "unfinished": "未完成",
+    "unfinishedDesc": "你未达到目标，继续前进!"
+  },
+  "rewards": {
+    "pageTitle": "我的奖励",
+    "emptyDesc1": "您还没获取过奖励！",
+    "validUntil": "有效期至",
+    "couponCode": "优惠券code"
+  },
+  "rewardsDetails": {
+    "pageTitle": "奖励详情",
+    "validUntil": "有效期至"
+  },
+  "activityDetail": {
+    "pageTitle": "活动详情"
+  },
+  "TeamInviteMember": {
+    "pageTitle": "邀请成员",
+    "unactive": "未激活",
+    "refused": "拒绝",
+    "accepted": "已接受",
+    "sysMsg1":"提醒信息已发出"
+  },
+  "TeamAllMember": {
+    "pageTitle": "全部成员",
+    "pageTitle1": "提醒成员",
+    "emptyDesc1": "团队还没有成员！",
+    "hasClock": "已打卡",
+    "reminder": "发送提醒",
+    "confirmMsg1": "提醒信息将发送给那些没有完成今天任务的人",
+    "name": "姓名",
+    "taskCompleted": "任务完成数"
+  },
+  "homePage": {
+    "pageTitle": "首页",
+    "welcome": "嗨，",
+    "myTask": "我的任务",
+    "qa": "健康问答",
+    "toDo": "健康打卡",
+    "backToday": "返回今天",
+    "customTask": "定制更合适您的任务吗？",
+    "wellDone": "做得不错",
+    "notBad": "做得好",
+    "betToChange": "需要加油哦",
+    "taskDonePrompt": "做得好",
+    "today": "今天",
+    "myTeam": "我的团队",
+    "myTeamTask": "我的任务",
+    "submit": "提交",
+    "done": "完成",
+    "unfinish": "未完成",
+    "submitPrompt": "请输入有效值",
+    "challengeFailed": "挑战失败",
+    "challengeFailedDes": "别灰心，还有更多的奖品等着你呢"
+  },
+  "weekend": [
+    "周日",
+    "周一",
+    "周二",
+    "周三",
+    "周四",
+    "周五",
+    "周六",
+    "周日",
+    "周一",
+    "周二",
+    "周三",
+    "周四",
+    "周五",
+    "周六"
+  ],
+  "TeamAcceptChallenge": {
+    "title": "您的代理人邀请您加入团队挑战",
+    "checkdetal": "查看详情",
+    "btntxt1": "接受",
+    "btntxt2": "拒绝",
+    "ruleTxt": "规则",
+    "rule": "每天至少有60%的成员完成了团队的任务，实现了当天的目标在活动期间，至少有60%的天数达到每日目标，那么团队挑战成功，每个团队成员将获得奖励"
+  },
+  "errorPage": {
+    "memo1": "很抱歉，您访问的页面不存在",
+    "backBtn": "返回首页"
+  },
+  "taskComplete": {
+    "title": "You’ve finished {day}-day tasks! Please redeem your reward"
+  },
+  "taskNextStart": {
+    "title": "Finish another {day} days of daily task to get"
+  }
+}

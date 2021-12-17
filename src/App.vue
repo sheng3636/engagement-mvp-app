@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <div class="aaa">{{$t(`message.Home`)}}</div>
+  <div class="aaa">{{$t('loading')}}</div>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
 </template>
 <script setup lang="ts">
