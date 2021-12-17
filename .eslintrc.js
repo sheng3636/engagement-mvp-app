@@ -13,9 +13,10 @@ module.exports = {
         "parser": "@typescript-eslint/parser"
     },
     "plugins": [
-        "vue",
+        "vue/vue3-essential",
         "@typescript-eslint"
     ],
     "rules": {
+      "semi": false
     }
 };
